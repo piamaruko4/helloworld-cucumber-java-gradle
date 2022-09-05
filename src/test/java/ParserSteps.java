@@ -6,7 +6,7 @@ public class ParserSteps
 {
     @Given("^sample feature file is ready$")
     public void givenStatement() {
-        System.out.println("Given statement executed successfully");
+        System.out.println("Given statement executed successfully!");
     }
 
     @When("^I run the feature file$")
